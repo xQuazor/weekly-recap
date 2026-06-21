@@ -1,10 +1,12 @@
 # Weekly Update - Creative Diary
 
+**[View Live Project](https://xquazor.github.io/weeklyUpdate/)** 🚀
+
 A personal concept project showcasing innovative and out-of-the-box design approaches for a creative diary experience.
 
 ## Overview
 
-**Weekly Update** is a creative diary web application built to explore unconventional design patterns and user interface concepts. This project serves as a personal portfolio piece demonstrating UI/UX design principles combined with web development.
+**Weekly Update** is a creative diary web application built to explore unconventional design patterns and user interface concepts. This project serves as a personal portfolio piece demonstrating UI[...]
 
 ## Features
 
@@ -63,7 +65,7 @@ View the live project: [Weekly Update](https://xQuazor.github.io/weeklyUpdate/)
 
 ## Design Philosophy
 
-This project embodies the philosophy of creative exploration and unconventional design thinking. Rather than following standard UI patterns, the aim is to produce designs that challenge conventions and offer fresh perspectives on how we interact with digital content.
+This project embodies the philosophy of creative exploration and unconventional design thinking. Rather than following standard UI patterns, the aim is to produce designs that challenge convention[...]
 
 ## How to Use
 
