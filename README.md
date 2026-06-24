@@ -1,6 +1,6 @@
 # Weekly Update - Creative Diary
 
-**[View Live Project](https://xquazor.github.io/weeklyUpdate/)** 🚀
+**[View Live Project](https://xquazor.github.io/weekly-recap/)** 🚀
 
 A personal concept project showcasing innovative and out-of-the-box design approaches for a creative diary experience.
 
